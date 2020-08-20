@@ -6,3 +6,4 @@
 
 # Django stuff:
 db.sqlite3
+**/migrations/*
